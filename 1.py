@@ -9,3 +9,4 @@ with open ("N205/image.jpeg", "rb") as file :
 with open ("rasm.jpeg" , "wb" ) as file : 
     file.write(baytlar) 
     print ("fayl nusxalandie ")   
+import opcode
